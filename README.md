@@ -1,12 +1,9 @@
-# Hallow Dating Simulator
-game hẹn hò vs hallow
-
-# Current Version
-Demo 1.0
-
-# About This Game
-Bring Yourself into a 2D Dating Story With A Character Name Hallow.
-
-# Demo Image
-![alt text](https://i.ibb.co/D70Cy1q/screenshot0002.png)
-![alt text](https://i.ibb.co/S3pxDVb/screenshot0003.png)
+# SCARPED
+What happen to the game?
+log 1: the game has been stop developing due to my free time is limit.
+log 2: i has stop developing the game because i dont really get the needed attention it needed
+log 3: i saw how annoying "Hallow" get when heard aboyt the game 
+log 4: i ran out of ideas, get bored and no inspire
+log 5: will this game return? unfortunaly, no
+# Im Sorry For The People Who Waiting For The New Update.
+![alt text](https://i.ibb.co/zNdSrjM/hallow-normal.png)
